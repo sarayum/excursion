@@ -7,23 +7,15 @@
   }
   body {
     background-color: black;
+    text-align: center;
   }
-  /*header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 95%;
-    margin: auto;
-  }*/
+
   .header h1 {
     font-size: 50px;
     color: white;
-    text-align: center;
-    /*border: 1px solid red; */
   }
  #text {
     padding: 20px;
-    text-align: center;
     width:100%;
     margin: auto;
 }
@@ -33,15 +25,11 @@ p a {
     font-size: 16px;
 }
 
-section {
-    text-align: center;
-}
 
 h2 {
     font-weight: 300;
     font-size: 42px;
     color: white;
-    text-align: center;
     padding:10px;
 }
 
@@ -49,7 +37,7 @@ p {
     font-size: 21px;
     color: grey;
     padding: 6px;
-    text-align: center;
+    
 }
 
 
